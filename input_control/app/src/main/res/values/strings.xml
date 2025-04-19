@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateTimePicker</string>
+    <string name="pick_date">Pilih Tanggal</string>
+    <string name="pick_time">Pilih Waktu</string>
+    <string name="date_selected">Tanggal dipilih: %1$s</string>
+    <string name="time_selected">Waktu dipilih: %1$s</string>
+</resources>
